@@ -30,7 +30,7 @@ class HomePage extends StatelessWidget {
             ),
           ),
           ElevatedButton(
-            onPressed: () => LoginPage,
+            onPressed: null,
             child: Text('Login Page'),
           ),
         ],
